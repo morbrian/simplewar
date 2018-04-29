@@ -19,4 +19,4 @@ Build Docker container:
 
 When using compose, running the following command after docker:build will refresh the running container:
 
-         docker-compose up -d --no-deps --force-recreate backend
+         docker-compose up -d --no-deps --force-recreate simplewar
